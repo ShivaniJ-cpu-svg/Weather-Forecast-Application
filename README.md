@@ -45,5 +45,6 @@ Type a city name (e.g., New York, London, Delhi) and click the search icon.
 View real-time weather data, forecast, and AQI results.
 this app uses the OpenWeatherMap API.Replace the appid value in the script with your own API key:   i.e  &appid=YOUR_API_KEY_HERE
 # Output
-<img width="1293" height="734" alt="Image" src="https://github.com/user-attachments/assets/50ea0b00-28c6-4692-b256-df96265ee9c3" />
 <img width="1291" height="742" alt="Image" src="https://github.com/user-attachments/assets/5bb7e4cb-7952-4883-823c-d6edb5be10ef" />
+<img width="1293" height="734" alt="Image" src="https://github.com/user-attachments/assets/50ea0b00-28c6-4692-b256-df96265ee9c3" />
+
