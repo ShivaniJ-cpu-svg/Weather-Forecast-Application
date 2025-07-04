@@ -44,7 +44,7 @@ jQuery for DOM manipulation
 
 Font: Google Fonts - Comfortaa
 
-#📋 How to Use
+# 📋 How to Use
 
 Clone or download this repository.
 
