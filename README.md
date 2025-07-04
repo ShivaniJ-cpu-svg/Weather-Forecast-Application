@@ -10,7 +10,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 BATCH DURATION: JUNE 5th,2025 to JULY 5th, 2025
 
-MENTOR NAME : NEELA SANTHOSH KUMAR
+MENTOR NAME : NEELA SANTHOSH 
 
 Live Weather Forecast Application is a responsive, user-friendly weather web application that provides real-time weather updates, 5-day forecasts, hourly temperature breakdown, and air quality data (AQI) for any city using the OpenWeatherMap API.Built using HTML, CSS, JavaScript, and the OpenWeatherMap API, it features a user-friendly interface that allows users to:
 
