@@ -14,7 +14,8 @@ MENTOR NAME : NEELA SANTHOSH
 
 Live Weather Forecast Application is a responsive, user-friendly weather web application that provides real-time weather updates, 5-day forecasts, hourly temperature breakdown, and air quality data (AQI) for any city using the OpenWeatherMap API.Built using HTML, CSS, JavaScript, and the OpenWeatherMap API, it features a user-friendly interface that allows users to:
 
-🚀 Features
+# 🚀 Features
+
 🔍 City Search: Type any city name and get instant weather updates.
 
 🌡️ Current Weather: Displays current temperature, sky condition, humidity, pressure, feels-like temperature, and visibility.
@@ -31,20 +32,32 @@ Live Weather Forecast Application is a responsive, user-friendly weather web app
 
 💡 Fully Responsive: Clean and modern UI powered by Bootstrap 5 and custom CSS.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
+
 HTML5, CSS3, JavaScript (ES6+)
+
 Bootstrap 5
+ 
 OpenWeatherMap API
+
 jQuery for DOM manipulation
+
 Font: Google Fonts - Comfortaa
 
-📋 How to Use
+#📋 How to Use
+
 Clone or download this repository.
+
 Open index.html in any modern browser (no server required).
+
 Type a city name (e.g., New York, London, Delhi) and click the search icon.
+
 View real-time weather data, forecast, and AQI results.
+
 this app uses the OpenWeatherMap API.Replace the appid value in the script with your own API key:   i.e  &appid=YOUR_API_KEY_HERE
+
 # Output
+
 <img width="1291" height="742" alt="Image" src="https://github.com/user-attachments/assets/5bb7e4cb-7952-4883-823c-d6edb5be10ef" />
 <img width="1293" height="734" alt="Image" src="https://github.com/user-attachments/assets/50ea0b00-28c6-4692-b256-df96265ee9c3" />
 
